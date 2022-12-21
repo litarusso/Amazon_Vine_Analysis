@@ -20,7 +20,7 @@ I focused on the Pet Products.
 
 ### Total Number Of Unpaid Reviews
 
-#### Image 4- Unpaid Total Number Of Reviews
+### Image 4- Unpaid Total Number Of Reviews
 
 <img width="600" alt="Screen Shot 2022-12-21 at 3 07 03 PM" src="https://user-images.githubusercontent.com/111788394/208996549-b382781e-81ef-4e01-9358-dca7e35ef976.png">
 
@@ -32,6 +32,16 @@ I focused on the Pet Products.
 #### Image 6- Unpaid 5 Star Review Percentage
 
 <img width="600" alt="Screen Shot 2022-12-21 at 3 07 21 PM" src="https://user-images.githubusercontent.com/111788394/208996978-8f2633ca-ff83-4608-8c65-adafcb25a5de.png">
+
+## Summary
+Upon checking these figures, there is a significant difference between the paid and unpaid reviews. 
+From the 170 paid reviews only 65 turn out to be 5 stars, which brings us to a 38.24%
+
+Then we have 37840 unpaid reviews, a highly elevated amount compared to the paid ones.
+Here, 20612 unpaid reviews which make the 54.47% are 5 Star reviews.
+
+Therefore, this gap between the 5 star reviews percentages in favor of unpaid ones shows a positive bias in the Amazon Vine Program.
+
 
 
 
