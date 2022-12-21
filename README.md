@@ -24,9 +24,10 @@ I focused on the Pet Products.
 
 <img width="600" alt="Screen Shot 2022-12-21 at 3 07 03 PM" src="https://user-images.githubusercontent.com/111788394/208996549-b382781e-81ef-4e01-9358-dca7e35ef976.png">
 
-#### Image 5- Unpaid Total Number Of Reviews
+#### Image 5- Unpaid Total Number 5 Star Reviews
 
-<img width="600" alt="Screen Shot 2022-12-21 at 3 07 14 PM" src="https://user-images.githubusercontent.com/111788394/208996685-da911a05-7c7a-4311-acf3-79ddab4ae9bb.png">
+<img width="600" alt="Screen Shot 2022-12-21 at 3 41 37 PM" src="https://user-images.githubusercontent.com/111788394/208999131-8c0e0114-4956-4c1d-99c6-785c386c21e5.png">
+
 
 #### Image 6- Unpaid 5 Star Review Percentage
 
